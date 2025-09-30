@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34114.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bagmanov_Autoservice", "Bagmanov_Autoservice.csproj", "{DC064EEC-07C0-4680-BDBE-2944642A9EB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC064EEC-07C0-4680-BDBE-2944642A9EB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC064EEC-07C0-4680-BDBE-2944642A9EB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC064EEC-07C0-4680-BDBE-2944642A9EB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC064EEC-07C0-4680-BDBE-2944642A9EB6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {017A00AC-8289-4B2E-B594-3A50BFB04B61}
+	EndGlobalSection
+EndGlobal
